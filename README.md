@@ -1,4 +1,4 @@
-# ⚡ Rubesh Karthik SS — Modern CSE Portfolio
+# ⚡ Rubesh Karthik SS —  CSE Portfolio
 
 A high-performance, responsive personal portfolio web application built with **React 19**, **Vite**, and custom **Vanilla CSS**. Designed with modern glassmorphism aesthetics, dynamic dark/light theme switching, interactive particle background, and an integrated interactive resume modal.
 
